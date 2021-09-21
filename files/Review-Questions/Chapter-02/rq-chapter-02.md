@@ -8,7 +8,7 @@ Based on the movie's tone and rhetoric I think there was an anti-Microsoft tone 
 
 1. When Bill Gates wrote his 1976 *"Open Letter to Hobbyists"*, was he justified in his complaint?  Why or why not?
 
-Bill gates wasn't justified becuase most of his users who gave positive feedback on BASIC never bought basic and the amount of royalities they recieved from sales to hobbyists makes all that time worth less than $2 an hour.
+Bill gates was justified becuase most of his users who gave positive feedback on BASIC never bought basic and the amount of royalities they recieved from sales to hobbyists makes all that time worth less than $2 an hour.
 
 1. According to Eric Raymond in the move, the adoption curve of Linux and the adoption curve the internet do what ~32:20?
 
