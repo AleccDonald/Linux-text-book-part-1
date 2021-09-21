@@ -9,13 +9,44 @@ You can find them at [https://highscalability.com/blog/category/example](http://
 Answer these questions (not all of the Answers are in each case study!)
 
 1. What market does that company serve? (What do they do?) And have they always served that market?
+
+Netflix serves the streaming market and they always have.
+
+Zoom serves a cloud-based video confrencing platform and they alwasy have
 1. What Operating System(s) are used?
+
+Netlix uses apple, windows, and any mobile device
+
+Zoom uses MAC OS X, Windows 10, and mobile devices
 1. What programming languages/frameworks are used?
+
+Netflix mainly uses Java, and Python
+
+Zoom uses Java, Python, and C++
 1. What storage and what database technologies are used?
+
+Netflix: The cloud
+Zoom: N/A
 1. What Opensource license is the technology stack licensed under?
+
+Netflix: AWS and Open Connect
+
+Zoom: N/a
+
 1. What is the current stock price and what was the IPO of the company? (if traded publicly.)
+
+Netlix: N/A
+
+Zoom: N/A
 1. What major obstacle (cost, system performance, QPS, etc, etc) was the company trying to overcome by implementing this technology stack?
+
+Both these companies overcame their fear of other competeitors.
+
 1. What can you learn from this article relating to technology and infrastructure?
+
+Netlix uses two different clouds to keep their members happy. When everything that happens before you hit play runs in AWS.
+
+Zoom can scale from 20 millinos to 30 million virtual users over night all become of opensource.
 
 ## Activity 2
 
