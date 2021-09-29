@@ -4,16 +4,23 @@ You will need to do some research and find the download links for the Linux and 
 
 * Debian Based
   * Ubuntu 20.04 Desktop edition
+  ![Ubuntu 20.04 Desktop](./Images/Ubuntu20.04.png)
   * Lubuntu 20.04 Desktop edition
-  * Ubuntu 20.04 Desktop edition
+  ![Lubuntu 20.04 Desktop](./Images/Lubuntu20.04.png)
   * Ubuntu 20.04 Server edition
+  ![Ubuntu 20.04 Server](./Images/Ubuntu20.04Server.png)
   * Trisquel Linux
+  ![Trisquel Linux](./Images/TrisquelLinux.png)
   * Solus Linux - MATE
+  ![Solus Linux - MATE](./Images/SolusLinux.png)
   * PureOS
+  ![PureOS](./Images/PureOS.png)
 
 * Red Hat Based
   * Fedora 34 - Workstation edition
+  ![Fedora 34 -Workstation edition](./images/Fedora34.png)
   * CentOS 8 Stream - Minimal install
+  ![CentOS 8 Stram](./Images/CentOS8Stream.png)
 
 * Illumos Based
   * OmniOS Community Edition
@@ -23,13 +30,19 @@ You will need to do some research and find the download links for the Linux and 
 
 * Linux
   * Alpine Linux - Standard
+  ![Alpine Linux](./Images/AlpineLinux.png)
   * MX Linux
+  ![MX Linux](./Images/MXLinux.png)
   * PCLinuxOS - Xfce mini
+  ![PCLinuxOS - Xcfe](./Images/PCLinuxOS.png)
   * Linux Mint
+  ![Linux Mint](./Images/LinuxMint.png)
 
 * Network Based Install
   * openSUSE Leap
+  ![OpenSUSE Leap](./Images/OpenSUSE.png)
   * Debian 11.x
+  ![Debian 11.x](./Images/Debian11.x.png)
 
 ![*Sample Deliverable*](images/Chapter-03/lab-example/virtualbox-ubuntu.png "Sample Deliverable")
 
