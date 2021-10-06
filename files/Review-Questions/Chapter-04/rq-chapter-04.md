@@ -85,4 +85,4 @@ Activities
 
 20) What is the name of the default Ubuntu desktop environment as of April 2018?
 
-GNOME
+GNOME 
