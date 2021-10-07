@@ -9,9 +9,11 @@ Using the virtual machines you installed in the previous chapter, you will now i
 You will need to install the list of GNOME 3 extensions from [https://extensions.gnome.org](https://extensions.gnome.org "Gnome extensions").  The first one is the example in the book called *Caffeine*. Make sure you have the Gnome Shell integration installed to configure and install plugins directly from the browser.
 
 1) Caffeine
+![Caffeine](./images/Caffeine.png)
 1) Dash to Dock
+![Dash to Dock](./images/DashToDock.png)
 1) Screenshot Tool
-
+![Screenshot Tool](./images/ScreenshotTool.png)
 ## Snaps Install
 
 To install and configure snaps, reference chapter 3.  To show these packages are installed take a screenshot of the output of the command: `sudo snap list`. Install these packages via Snap on Ubuntu 18.04 desktop:
